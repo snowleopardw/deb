@@ -1,0 +1,10 @@
+{
+	Filter = {
+		Classes = (
+			"_UIAlertControllerPresentationController",
+			UIActionSheet,
+			UIAlertController,
+			UIAlertView,
+		);
+	};
+}
